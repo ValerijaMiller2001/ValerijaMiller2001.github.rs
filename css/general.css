@@ -110,7 +110,7 @@ nav {
 
 
 .promo {
-    min-height: 800px;
+    height: 100vh;
     background: url('../img/main/main_bg.jpg') center/cover no-repeat;
     padding: 150px 0 135px 0;
 }
